@@ -29,14 +29,7 @@ This project, Airline Customer Value Analysis, aims to identify distinct custome
 ## Overview
 
 The goal of this project is to divide airline customers into segments and to make business recommendation from the clustering model. The model itself will be built based on LRFMC anaylis that have been used in aviation industry to analyze customer value.
-
-RFMC analysis consists of 5 aspects:
-
-L : The number of months since the member’s joining time from the end of the observation time. => LOAD_DATE - FFP_DATE   
-R : Number of months since the member’s last flight from the end of observation time. => LAST_TO_END   
-F : The total number of times the member has flown during the observation period. => FLIGHT_COUNT   
-M : Miles accumulated during member observation time. => SEG_KM_SUM   
-C : The average value of the discount factor used by the member during the observation period. => avg_discount   
+   
 
 
 ## Exploratory Data Analysis (EDA)   
