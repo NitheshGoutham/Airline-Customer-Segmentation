@@ -74,11 +74,12 @@ C : The average value of the discount factor used by the member during the obser
 -> Clustering model algorthm: K-Means Clustering   
 -> Number of clusters after practicing Elbow Method: 4.   
 -> Visualize the cluster model with PCA   
+![elbow cluster](https://github.com/NitheshGoutham/Airline-Customer-Segmentation/blob/9ebdac55aee1f729dc3554c576b2e1cad903f711/cluster.jpg)
 
 ## Analysis    
 -> Cluster summary statistic:   
 
-
+![cluster statistics](https://github.com/NitheshGoutham/Airline-Customer-Segmentation/blob/9ebdac55aee1f729dc3554c576b2e1cad903f711/statics.jpg)
   
 
 
