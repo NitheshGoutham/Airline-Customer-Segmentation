@@ -75,8 +75,13 @@ C : The average value of the discount factor used by the member during the obser
 -> Number of clusters after practicing Elbow Method: 4.   
 -> Visualize the cluster model with PCA   
 
-## Analysis   
+## Analysis    
 -> Cluster summary statistic:   
+
+
+  
+
+
 
 ## Business Recommendation   
 
