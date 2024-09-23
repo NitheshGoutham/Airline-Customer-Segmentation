@@ -5,6 +5,39 @@ K-Means Clustering: Airline-Customer-Value-Analysis
 
 This project, Airline Customer Value Analysis, aims to identify distinct customer groups based on key behavioral factors such as flight frequency, travel spending, loyalty status, and other relevant features. By leveraging K-Means clustering, airlines can better understand the value each customer segment brings and tailor their marketing and operational strategies accordingly.
 
+## Data 
+
+Basic customer information:   
+
+MEMBER_NO: Membership card number (ID)   
+FFP_DATE: Membership join date   
+FIRST_FLIGHT_DATE: First flight date   
+GENDER: Gender   
+FFP_TIER: Membership card level   
+WORK_CITY: The city where the customer works   
+WORK_PROVINCE: The province where the customer works   
+WORK_COUNTRY: The country where the customer works   
+AGE: Age   
+
+Flight information:   
+
+LOAD_TIME: The end time of the observation window (observation window: time period of observation)   
+FLIGHT_COUNT: Number of flights in the observation window   
+SUM_YR_1 : Fare revenue   
+SUM_YR_2 : Votes prices   
+SEG_KM_SUM: Total flight kilometers in the observation window   
+LAST_FLIGHT_DATE: Last flight date   
+LAST_TO_END: The time from the last flight to the end of the observation window   
+AVG_INTERVAL: Average flight time interval   
+MAX_INTERVAL: Maximum flight interval   
+avg_discount: Average discount rate   
+
+Integral information   
+
+BP_SUM: Total basic integral     
+EXCHANGE_COUNT: Number of points exchanged   
+Points_Sum: Total cumulative points   
+Point_NotFlight: points not used by the customer   
 
 ## Domain : Airline Industry
 
